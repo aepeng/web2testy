@@ -1,4 +1,4 @@
-console.log('hello your name!')
+console.log('hello my name!')
 document.write('<h1> Hi!</h1>')
 let noun_list = ["my brother", "yo mama", "John", "a mermaid", "the dog", "Plato"];
 let adv_list = ["financially", "willfully", "abruptly", "endlessly", "firmly", "delightfully", "quickly", "lightly", "eternally", "delicately", "wearily", "sorrowfully", "beautifully"];
