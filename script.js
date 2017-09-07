@@ -5,4 +5,4 @@ let adv_list = ["financially", "willfully", "abruptly", "endlessly", "firmly", "
 let adj = prompt('Enter an adjective.');
 let noun = noun_list[Math.floor(Math.random()*noun_list.length)];
 
-"Once upon a time " + noun + " was in Web Design II. The classroom was " + adv_list[Math.floor(Math.random()*adv_list.length)] + " decorated, and " + noun + " was shocked and " + adj + ". After class, " + noun + " " + adv_list[Math.floor(Math.random()*adv_list.length)] + " went home."
+console.log("Once upon a time " + noun + " was in Web Design II. The classroom was " + adv_list[Math.floor(Math.random()*adv_list.length)] + " decorated, and " + noun + " was shocked and " + adj + ". After class, " + noun + " " + adv_list[Math.floor(Math.random()*adv_list.length)] + " went home.")
